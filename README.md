@@ -4,6 +4,8 @@ A method to record the tech stack for a given repository/project.  The idea orig
 
 ## Example Layout for a Tech Stack Record
  
+ Name: **tech-stack-record.md** in the root of the project. Updated via version control
+ 
  - DevOps
  - Application
  - Communication
