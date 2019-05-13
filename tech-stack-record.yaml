@@ -1,0 +1,34 @@
+project: Genesis
+application:
+    'Spring Boot Kotlin':
+        version: 2.1.4
+        purpose: 'Stand alone JVM Spring Applications'
+    OkHttp:
+        version: 4.0.0-alpha01
+        purpose: 'HTTP/2 client for Android and Java Applications'
+devops:
+    Prettier:
+        version: 1.17
+        purpose: 'Code Formatting'
+    ESLint:
+        version: 5.16.0
+        purpose: 'Lint Utility'
+    npm:
+        version: 6.7.0
+        purpose: 'node package manager and build scripts'
+    Slack:
+        version: '3.4.1-beta3 HEAD/179ea19 (Beta)'
+        link: 'https://MYTEAMWORSKPACE'
+        purpose: 'Build Notifications and team communications'
+    'Travis CI':
+        version: n/a
+        purpose: 'Build Notifications'
+communications:
+    Jira:
+        version: 5.9
+        link: 'https://BLAH'
+        purpose: 'Project Tracking'
+    Slack:
+        version: '3.4.1-beta3 HEAD/179ea19 (Beta)'
+        link: 'https://MYTEAMWORSKPACE'
+        purpose: 'Build Notifications and team communications'
